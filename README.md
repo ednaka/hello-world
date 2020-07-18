@@ -1,2 +1,5 @@
 # hello-world
-To learning Git
+
+Hello,
+
+I´m learning this amazing world of coding
